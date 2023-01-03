@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactprojectaspnetcore-frontend", "ReactProjectASPNETCore-Frontend\reactprojectaspnetcore-frontend.esproj", "{8083092D-8912-4C33-B423-78075D62CE52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reactprojectaspnetcore-backend", "reactprojectaspnetcore-backend\reactprojectaspnetcore-backend.csproj", "{640EC0BE-1E97-4699-851D-1CBC16FC5D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8083092D-8912-4C33-B423-78075D62CE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8083092D-8912-4C33-B423-78075D62CE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8083092D-8912-4C33-B423-78075D62CE52}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8083092D-8912-4C33-B423-78075D62CE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8083092D-8912-4C33-B423-78075D62CE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8083092D-8912-4C33-B423-78075D62CE52}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{640EC0BE-1E97-4699-851D-1CBC16FC5D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640EC0BE-1E97-4699-851D-1CBC16FC5D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640EC0BE-1E97-4699-851D-1CBC16FC5D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640EC0BE-1E97-4699-851D-1CBC16FC5D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DD7E2F5-75BC-4F94-9948-527D4509913D}
+	EndGlobalSection
+EndGlobal
