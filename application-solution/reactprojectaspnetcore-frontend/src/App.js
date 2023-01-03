@@ -47,7 +47,13 @@ export default class App extends Component {
 
         return (
             <div>
-                <h1 class="text-red-500">This is some test tailwind text</h1>
+                <div class="flex flex-row">
+                    <button class="text-red-500 border border-slate-500 rounded-lg px-1 m-5 hover:bg-green-500">This is some test tailwind text</button>
+                    <div flex="flex items-center">
+                        <input class="border border-slate-300"></input>
+                    </div>
+                </div>
+
                 <h1 id="tabelLabel" >Weather forecast</h1>
                 <p>This component demonstrates fetching data from the server.</p>
                 {/* {contents} */}
