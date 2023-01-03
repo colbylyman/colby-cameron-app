@@ -1,2 +1,4 @@
 C:\Users\Admin\OneDrive\Documents\colby-cameron-app\colby-cameron-app\application-solution\ReactProjectASPNETCore-Frontend\obj\Debug\ReactProjectASPNetCore-Frontend.esproj.SuggestedBindingRedirects.cache
 C:\Users\Admin\OneDrive\Documents\colby-cameron-app\colby-cameron-app\application-solution\ReactProjectASPNETCore-Frontend\obj\Debug\ReactProjectASPNetCore-Frontend.esproj.CoreCompileInputs.cache
+C:\Git\colby-cameron\application-solution\ReactProjectASPNETCore-Frontend\obj\Debug\reactprojectaspnetcore-frontend.esproj.SuggestedBindingRedirects.cache
+C:\Git\colby-cameron\application-solution\ReactProjectASPNETCore-Frontend\obj\Debug\reactprojectaspnetcore-frontend.esproj.CoreCompileInputs.cache
