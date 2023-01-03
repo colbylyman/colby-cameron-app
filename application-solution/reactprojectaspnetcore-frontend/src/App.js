@@ -46,17 +46,30 @@ export default class App extends Component {
         //     : App.renderForecastsTable(this.state.forecasts);
 
         return (
-            <div>
-                <div class="flex flex-row">
-                    <button class="text-red-500 border border-slate-500 rounded-lg px-1 m-5 hover:bg-green-500">This is some test tailwind text</button>
-                    <div flex="flex items-center">
-                        <input class="border border-slate-300"></input>
+            <div class="flex flex-col h-screen">
+                <div class="m-20 mb-10">
+                    <p class="text-2xl underline">Register</p>
+                    <div class="flex flex-row">
+                        <p>Username: </p>
+                        <input class="ml-2 w-10 border border-slate-400"></input>
+                    </div>
+                    <div class="flex flex-row">
+                        <p>Password: </p>
+                        <input class="ml-2 w-10 border border-slate-400"></input>
                     </div>
                 </div>
 
-                <h1 id="tabelLabel" >Weather forecast</h1>
-                <p>This component demonstrates fetching data from the server.</p>
-                {/* {contents} */}
+                <div class="m-20 mb-10">
+                    <p class="text-2xl underline">Login</p>
+                    <div class="flex flex-row">
+                        <p>Username:</p>
+                        <input class="ml-2 w-10 border border-slate-400"></input>
+                    </div>
+                    <div class="flex flex-row">
+                        <p>Password:</p>
+                        <input class="ml-2 w-10 border border-slate-400"></input>
+                    </div>
+                </div>
             </div>
         );
     }
